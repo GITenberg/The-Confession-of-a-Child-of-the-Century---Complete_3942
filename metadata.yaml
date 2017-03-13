@@ -1,6 +1,9 @@
 _repo: The-Confession-of-a-Child-of-the-Century---Complete_3942
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La confession d'un enfant du siècle. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Musset, Alfred de
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
 description: Translation of La confession d'un enfant du siècle.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3942#The-Confession-of-a-Child-of-the-Century---Complete
 gutenberg_issued: '2004-10-30'
 gutenberg_type: Text
 identifiers:
